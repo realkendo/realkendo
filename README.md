@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @realkendo
 - 👀 I’m interested in JavaScript and Python languages
-- 🌱 I’m currently learning Angular and Node.js
-- 💞️ I’m looking to collaborate on blockchain, AI and web technologies
+- 🌱 I’m currently learning ReactJS and SciKitLearn/Tensorflow
+- 💞️ I’m looking to collaborate on AI and web technologies
 - 📫 How to reach me (+234)9093538850 or Kenneth Istifanus on linkedin and facebook
 
 <!---
