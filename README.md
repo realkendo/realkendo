@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @realkendo
-- 👀 I’m skilled in JavaScript and Python Programming languages 
-- 🌱 I’m currently learning Gatsby, NextJS,  and SciKitLearn
-- 💞️ I’m looking to collaborate on AI and web projects using modern technologies
+- 👀 I’m skilled in JavaScript, MQL5 and Python Programming languages 
+- 🌱 I’m currently learning Gatsby, NextJS,  and SciKitLearn 
+- 💞️ I’m looking to collaborate on AI, Quantitative and Web projects using modern technologies.
 - 📫 How to reach me (+234)9093538850,7017956387 on call & Whatsapp or Kenneth Istifanus on linkedin & facebook
 
 <!---
