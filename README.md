@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @realkendo
+- 👋 Hi, I'm mostly called k3ndo
 - 👀 I’m skilled in JavaScript, MQL5 and Python Programming languages 
 - 🌱 I’m currently learning NextJS and PHP
 - 💞️ I’m looking to collaborate on AI, Quantitative and Web projects using modern technologies.
