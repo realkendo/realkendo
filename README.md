@@ -10,19 +10,21 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 I’m looking to collaborate on Web related projects using modern technologies.
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 I’m currently learning **TypeScript & NextJS**
+ 
+ 📫 How to reach me (+234)7017956387 on call & https://wa.me/2347017956387
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **JavaScript, CSS, React... or anything Web**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact **I'm a Golden State Warriors & Barcelona FC fan, i'm also a Point Guard For The Railway Hoopers Zaria**
 
  </div>
  
 <div align="center"> 
   <a href="mailto:pedro.sales.muniz@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=green" />
   </a>
   <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
@@ -38,7 +40,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,nextjs,mysql,flask" /><br>
 </div>
 
 <br/>
@@ -59,17 +61,7 @@
 
 <br/>
 
-<div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
 
-<br/>
-
-- 👋 Hi, I'm mostly called k3ndo by my friends
-- 👀 I’m skilled in Wordpress, JavaScript, MQL5, Python and some of their related frameworks 
-- 🌱 I’m currently learning to use No code tools for web
-- 💞️ I’m looking to collaborate on AI, Quantitative and Web projects using modern technologies.
-- 📫 How to reach me (+234)7017956387 on call & https://wa.me/2347017956387, Kenneth Istifanus on linkedin & facebook
 
 <!---
 realkendo/realkendo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
