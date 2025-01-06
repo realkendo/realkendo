@@ -1,3 +1,11 @@
+<img align='right' src='https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07' />
+
+<h1 align='center'>
+
+  <img src="https://readme-typing-svg.heroku.com/?font=Righteius&size">
+
+</h1>
+
 - 👋 Hi, I'm mostly called k3ndo by my friends
 - 👀 I’m skilled in Wordpress, JavaScript, MQL5, Python and some of their related frameworks 
 - 🌱 I’m currently learning to use No code tools for web
