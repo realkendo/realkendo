@@ -39,18 +39,17 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind,react,figma" />
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,typescript,express,mongodb,nextjs" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind,react,figma" /><br>
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,typescript,express,mongodb,nextjs" /><br>
     <img src="https://skillicons.dev/icons?i=nodejs,firebase,nextjs,mysql,python,sklearn,flask" />
-<br>
+
 </div>
 
 <br/>
-<hr/>
-
+<!-- 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<!-- <div align=center>
+<div align=center>
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
