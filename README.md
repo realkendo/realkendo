@@ -26,10 +26,10 @@
   <a href="mailto:kennethistifanus1@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=green" />
   </a>
-  <a href="https://linkedin.com/in/pedro-sales-muniz" target="https://www.linkedin.com/in/kenneth-istifanus-aa9a361a1/">
+  <a href="https://linkedin.com/in/kenneth-istifanus-aa9a361a1" target="https://www.linkedin.com/in/kenneth-istifanus-aa9a361a1/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://salesp07.github.io" target="https://github.com/realkendo">
+  <a href="https://.github.io/realkendo" target="https://github.com/realkendo">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
