@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=realkendo.realkendo" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!+👋;+I'm+k3nd0+👨🏿‍💻;" />
@@ -13,24 +13,27 @@
  🔭 I’m looking to collaborate on Web related projects using modern technologies.
  
  🌱 I’m currently learning **TypeScript & NextJS**
- 
- 📫 How to reach me (+234)7017956387 on call & https://wa.me/2347017956387
 
 💬 Ask me about **JavaScript, CSS, React... or anything Web**
 
 ⚡ Fun fact **I'm a Golden State Warriors & Barcelona FC fan, i'm also a Point Guard For The Railway Hoopers Zaria**
+ 
+📫 How to reach me (+234)7017956387 on call or on the mediums below
 
  </div>
  
 <div align="center"> 
   <a href="mailto:kennethistifanus1@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=green" />
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://linkedin.com/in/kenneth-istifanus-aa9a361a1" target="https://www.linkedin.com/in/kenneth-istifanus-aa9a361a1/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=blue" target="_blank" />
   </a>
   <a href="https://.github.io/realkendo" target="https://github.com/realkendo">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+  <a href="https://wa.me/2347017956387" target="https://github.com/realkendo">
+     <img src="https://img.shields.io/badge/WhatsApp-FF5722?style=for-the-badge&logo=todoist&logoColor=green" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
 
