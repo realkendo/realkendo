@@ -16,7 +16,7 @@
 
 💬 Ask me about **JavaScript, CSS, React... or anything Web**
 
-⚡ Fun fact **I'm a Golden State Warriors & Barcelona FC fan, i'm also a Point Guard For The Railway Hoopers Zaria**
+⚡ Fun fact **I'm a Golden State Warriors & Barcelona FC fan, i'm also into sports, board games and video games**
  
 📫 How to reach me (+234)7017956387 on call or on the mediums below
 
