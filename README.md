@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **TypeScript & NextJS**
 
-💬 Ask me about **JavaScript, CSS, React... or anything Web**
+💬 Ask me about **JavaScript, CSS, React... or anything about the Web**
 
 ⚡ Fun fact **I'm a Golden State Warriors & Barcelona FC fan, i'm also into sports, board games and video games**
  
