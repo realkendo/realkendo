@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m looking to collaborate on Web related projects using modern technologies.
+ 🔭 I’m open to collaborate on Web and AI related projects .
  
- 🌱 I’m currently learning **TypeScript & NextJS**
+ 🌱 I’m currently learning **PHP**
 
 💬 Ask me about **JavaScript, CSS, React... or anything related to the Web and Math**
 
