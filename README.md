@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m looking to collaborate on Web and AI related projects .
+ 🔭 I’m looking to collaborate on Web and AI projects .
  
  🌱 I’m currently learning **PHP**
 
