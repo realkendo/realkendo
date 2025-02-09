@@ -16,7 +16,7 @@
 
 💬 Ask me about **JavaScript, CSS, React... or anything related to the Web and Math**
 
-⚡ Fun fact **I'm a Golden State Warriors & Barcelona FC fan, i love spending time with friends and family, play sports, board games or video games in my free time**
+⚡ Fun fact **I'm a Golden State Warriors & Barcelona FC fan, i love to read, spend time with friends and family, play sports, board games or video games in my free time**
  
 📫 How to reach me (+234)7017956387 on call or on the mediums below
 
