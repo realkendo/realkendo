@@ -12,7 +12,7 @@
  
  🔭 I’m looking to collaborate on Web and AI projects .
  
- 🌱 I’m currently learning **PHP**
+ 🌱 I’m currently learning Backend developement with **NodeJS & PHP**
 
 💬 Ask me about **JavaScript, CSS, React... or anything related to the Web and Math**
 
