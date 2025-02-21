@@ -1,65 +1,74 @@
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=realkendo.realkendo)
+<p align="right">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=realkendo.realkendo" alt="Visitor Badge"/>
+</p>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!+👋;+I'm+K3nd0+👨🏿‍💻;Welcome+to+my+GitHub!" />
 </h1>
 
-<h3 align="center">🚀 A Passionate Software Engineer from Nigeria 👨🏿‍💻</h3>
+<h3 align="center">A Passionate Software Engineer 👨🏿‍💻 From Nigeria</h3>
 
 ---
 
 ### 👨🏿‍💻 About Me
-- 🔭 I’m looking to collaborate on **Web and AI projects**
-- 🌱 Currently learning **Backend Development (Node.js & PHP)**
-- 💬 Ask me about **JavaScript, CSS, React, or anything Web & Math-related**
-- ⚡ Fun fact: **I'm a Golden State Warriors & Barcelona FC fan**
-- 🎮 I enjoy **reading, sports, board games, and video games**
+
+- 🔭 I’m looking to collaborate on **Web & AI projects**
+- 🌱 I’m currently learning **Backend Development (NodeJS & PHP)**
+- 💬 Ask me about **JavaScript, CSS, React, Web Dev, or Math**
+- ⚡ Fun fact: **I'm a Golden State Warriors & Barcelona FC fan!** 🏀⚽
+- 🎮 I enjoy **reading, spending time with friends & family, playing sports, board games, and video games**
+- 📫 Reach me at **(+234)7017956387** or via the mediums below 👇
 
 ---
 
-### 📬 Connect With Me
-<p align="center">
+### 📬 Connect with Me
+
+<p align="center"> 
   <a href="mailto:kennethistifanus1@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://linkedin.com/in/kenneth-istifanus-aa9a361a1" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://linkedin.com/in/kenneth-istifanus-aa9a361a1">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/realkendo" target="_blank">
-     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://realkendo.github.io">
+     <img src="https://img.shields.io/badge/Portfolio-FF0000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://wa.me/2347017956387" target="_blank">
-     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <a href="https://wa.me/2347017956387">
+     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
 </p>
 
 ---
 
-### 🛠️ Technologies & Tools
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,figma" /><br>
+### 🛠️ Tech Stack
+
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind,react,figma" /><br>
     <img src="https://skillicons.dev/icons?i=nodejs,express,typescript,mongodb,nextjs,git,github" /><br>
     <img src="https://skillicons.dev/icons?i=wordpress,vscode,firebase,mysql,python,sklearn,flask" />
-</div>
+</p>
 
 ---
 
 ### 📊 GitHub Stats
+
 <p align="center">
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=realkendo&theme=react&border_radius=10" alt="streak stats" />
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=realkendo&show_icons=true&theme=react&border_radius=10" alt="GitHub stats" />
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=realkendo&theme=react&border_radius=10" alt="GitHub Streak Stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=realkendo&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realkendo&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="top languages" />
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=realkendo&hide=html&langs_count=8&layout=compact&theme=react&border_radius=10" alt="Top Languages" />
 </p>
 
 ---
 
-### 💡 Fun Extras
-- 🎧 **Currently Listening To:** [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/realkendo)
-- 📝 **Latest Blog Post:** [Coming Soon...]
-- 💼 **Portfolio Website:** [aminnovativecenter.com.ng](https://aminnovativecenter.com.ng)
+### 🚀 Fun Extras
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=realkendo&theme=radical&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <br>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="GitHub Quote" />
+</p>
 
 ---
 
-### 🚀 Let's Build Something Amazing!
-💡 Open to opportunities, collaborations, and innovative ideas. Feel free to connect! 🚀
+<p align="center">🚀 Keep coding and innovating! 🚀</p>
