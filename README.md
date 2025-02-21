@@ -30,7 +30,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=blue" target="_blank" />
   </a>
   <a href="https://.github.io/realkendo" target="https://github.com/realkendo">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/Portfolio-FF0000?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
   <a href="https://wa.me/2347017956387" target="https://github.com/realkendo">
      <img src="https://img.shields.io/badge/WhatsApp-11aa11?style=for-the-badge&logo=todoist&logoColor=green" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
