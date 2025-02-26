@@ -31,7 +31,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://kendo-portfolio.vercel.app">
-     <img src="https://img.shields.io/badge/Portfolio-cccc00?style=for-the-badge&logo=firefox&logoColor=black" alt="Portfolio"/>
+     <img src="https://img.shields.io/badge/Portfolio-ffcc00?style=for-the-badge&logo=firefox&logoColor=black" alt="Portfolio"/>
   </a>
   <a href="https://wa.me/2347017956387">
      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
