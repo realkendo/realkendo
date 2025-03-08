@@ -6,7 +6,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!+👋;+I'm+K3nd0+👨🏿‍💻;Welcome+to+my+GitHub!" />
 </h1>
 
-<h3 align="center">A Passionate Software Engineer 👨🏿‍💻 From Nigeria</h3>
+<h3 align="center">A Driven & Passionate Software Engineer 👨🏿‍💻 From Nigeria</h3>
 
 ---
 
