@@ -73,4 +73,4 @@
 
 ---
 
-<p align="center">🚀 Keep coding and innovating to make the world a better place! 🚀</p>
+<p align="center">🚀 Keep coding and innovating to make the world a better place for everyone! 🚀</p>
