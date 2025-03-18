@@ -13,7 +13,7 @@
 ### 👨🏿‍💻 About Me
 
 - 🔭 I’m looking to collaborate on **Web2, Web3 & AI projects**
-- 🌱 I’m currently learning **Backend Development (NodeJS & PHP)**
+- 🌱 I’m currently learning **Backend Development (NodeJS)**
 - 💬 Ask me about **JavaScript, CSS, React, Web, AI or Math**
 - ⚡ Fun fact: **I'm a Golden State Warriors & Barcelona FC fan!** 🏀⚽
 - 🎮 I enjoy **reading, spending time with friends & family, playing sports, board games, and video games**
