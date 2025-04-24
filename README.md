@@ -14,7 +14,7 @@
 
 - 🔭 I’m looking to collaborate on **Web2, Web3, quantitative & AI projects**
 - 🌱 I’m currently learning **Backend Development (NodeJS)**
-- 💬 Ask me about **JavaScript, CSS, React, Web, AI or Math**
+- 💬 Ask me about **JavaScript, Python, CSS, React, Web, AI or Math**
 - ⚡ Fun fact: **I'm a Golden State Warriors & Barcelona FC fan!** 🏀⚽
 - 🎮 I enjoy **reading, spending time with friends & family, playing sports, board games and video games... youtube too**
 - 📫 Reach me at **(+234)7017956387** or via the platforms below 👇
