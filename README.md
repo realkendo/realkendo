@@ -12,6 +12,9 @@
 
 ### 👨🏿‍💻 About Me
 
+- 💝 **Favorite Quote:** A smooth sea never made a skilled sailor
+
+
 - 🔭 I’m looking to collaborate on **Web2, Web3, quantitative & AI projects**
 - 🌱 I’m currently learning **Backend Development (NodeJS)**
 - 💬 Ask me about **JavaScript, Python, CSS, React, Web, AI or Math**
