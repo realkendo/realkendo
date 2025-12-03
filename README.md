@@ -16,7 +16,7 @@
 - 💝 **Favorite Quote:** A smooth sea never made a skilled sailor
 
 
-- 🔭 I’m looking to collaborate on **Web2, Web3, quantitative & AI projects**
+- 🔭 I’m looking to collaborate on **Web2, Web3, Quantitative & AI projects**
 - 🌱 I’m currently learning **Backend Development (NodeJS)**
 - 💬 Ask me about **JavaScript, Python, CSS, React, Web, AI or Math**
 - ⚡ Fun fact: **I'm a Golden State Warriors & Barcelona FC fan!** 🏀⚽
