@@ -47,9 +47,9 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind,react,figma" /><br>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,typescript,mongodb,nextjs,git,nestjs" /><br>
-    <img src="https://skillicons.dev/icons?i=wordpress,vscode,firebase,mysql,python,sklearn,github" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind,react,nextjs,figma" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,typescript,mongodb,git,github" /><br>
+    <img src="https://skillicons.dev/icons?i=wordpress,vscode,firebase,postgresql,python,sklearn,jupyternotebook" />
 </p>
 
 ---
