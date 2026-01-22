@@ -16,7 +16,7 @@
 
 I build **data-driven applications** with a strong backend foundation, focusing on systems that turn data into decisions.
 
-- 🔭 Collaborating on **Data-driven, Quant, Analytics, Web2 & AI-adjacent projects**
+- 🔭 Collaborating on **Data-driven, Quantitative, Analytics, Web2 & AI-adjacent projects**
 - 🌱 Currently deepening **Node.js, TypeScript, backend architecture, and data workflows**
 - 💬 Comfortable with **JavaScript, Python, React, CSS, Web fundamentals, Math**
 - ⚡ Interests: **Basketball (GSW), Football (Barcelona), board games, reading**
