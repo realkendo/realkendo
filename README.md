@@ -45,7 +45,7 @@ I build **data-driven applications** with a strong backend foundation, focusing 
 ## 🛠️ Tech Stack (Data-Oriented)
 
 ### Frontend
-![Frontend](https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,figma)
+![Frontend](https://skillicons.dev/icons?i=html,css,scss,js,react,nextjs,tailwind,bootstrap,figma)
 
 ### Backend & Data
 ![Backend](https://skillicons.dev/icons?i=nodejs,express,nestjs,ts,python,postgresql,mongodb,firebase)
