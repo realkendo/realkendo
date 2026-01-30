@@ -49,7 +49,7 @@ I build **data-driven applications** with a strong backend foundation, focusing 
 
 ### Backend & Data
 ![Backend](https://skillicons.dev/icons?i=nodejs,express,nestjs,postgresql,mongodb,ts,python)
-![Data Tools](https://skillicons.dev/icons?i=firebase,sequelize,prisma,mysql,php,linux)
+![Data Tools](https://skillicons.dev/icons?i=firebase,sequelize,prisma,mysql,php,linux,windows)
 
 ### Tools & Platforms
 ![Tools](https://skillicons.dev/icons?i=git,github,postman,vscode,wordpress)
