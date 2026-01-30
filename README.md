@@ -45,14 +45,14 @@ I build **data-driven applications** with a strong backend foundation, focusing 
 ## 🛠️ Tech Stack (Data-Oriented)
 
 ### Frontend
-![Frontend](https://skillicons.dev/icons?i=html,css,scss,js,react,nextjs,tailwind,bootstrap,figma)
+![Frontend](https://skillicons.dev/icons?i=html,css,scss,tailwind,bootstrap,figma,js,react,nextjs)
 
 ### Backend & Data
-![Backend](https://skillicons.dev/icons?i=nodejs,express,nestjs,ts,python,postgresql,mongodb,firebase)
-![Data Tools](https://skillicons.dev/icons?i=mysql,php,linux)
+![Backend](https://skillicons.dev/icons?i=nodejs,express,nestjs,postgresql,mongodb,ts,python)
+![Data Tools](https://skillicons.dev/icons?i=firebase,sequelize,prisma,mysql,php,linux)
 
 ### Tools & Platforms
-![Tools](https://skillicons.dev/icons?i=git,github,vscode,wordpress)
+![Tools](https://skillicons.dev/icons?i=git,github,postman,vscode,wordpress)
 
 ---
 
