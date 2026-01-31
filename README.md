@@ -48,11 +48,11 @@ I build **data-driven applications** with a strong backend foundation, focusing 
 ![Frontend](https://skillicons.dev/icons?i=html,css,scss,tailwind,bootstrap,figma,js,react,nextjs)
 
 ### Backend & Data
-![Backend](https://skillicons.dev/icons?i=nodejs,express,nestjs,postgresql,mongodb,ts,python)
-![Data Tools](https://skillicons.dev/icons?i=firebase,sequelize,prisma,mysql,php,linux,windows)
+![Backend](https://skillicons.dev/icons?i=nodejs,express,nestjs,postgresql,mongodb,ts,python,php)
+![Data Tools](https://skillicons.dev/icons?i=firebase,sequelize,prisma,mysql,pandas,numpy,matplotlib,excel)
 
 ### Tools & Platforms
-![Tools](https://skillicons.dev/icons?i=git,github,postman,vscode,wordpress)
+![Tools](https://skillicons.dev/icons?i=git,github,linux,windows,postman,vscode,wordpress)
 
 ---
 
