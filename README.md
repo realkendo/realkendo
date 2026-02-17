@@ -55,7 +55,7 @@ I enjoy working on problems involving structured data, reporting pipelines, APIs
 
 ### Backend & Data
 ![Backend](https://skillicons.dev/icons?i=nodejs,express,nestjs,postgresql,mongodb,ts,python,php)
-![Data Tools](https://skillicons.dev/icons?i=firebase,sequelize,prisma,sqlite,mysql,sklearn)
+![Data Tools](https://skillicons.dev/icons?i=firebase,sequelize,prisma,sqlite,mysql)
 
 ### Tools & Platforms
 ![Tools](https://skillicons.dev/icons?i=git,github,linux,windows,postman,vscode,wordpress)
