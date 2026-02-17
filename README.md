@@ -18,7 +18,7 @@ I build backend systems and data workflows that turn messy inputs into reliable,
 
 My focus is on:
 - Backend architecture (Node.js / TypeScript)
-- Data processing & automation (Python, pandas)
+- Data processing & automation (Python, numpy, pandas, sklearn, bs)
 - Practical systems that eliminate manual work
 
 I enjoy working on problems involving structured data, reporting pipelines, APIs, and performance-aware systems.
@@ -55,7 +55,7 @@ I enjoy working on problems involving structured data, reporting pipelines, APIs
 
 ### Backend & Data
 ![Backend](https://skillicons.dev/icons?i=nodejs,express,nestjs,postgresql,mongodb,ts,python,php)
-![Data Tools](https://skillicons.dev/icons?i=firebase,sequelize,prisma,sqlite,mysql,pandas,numpy,matplotlib,excel)
+![Data Tools](https://skillicons.dev/icons?i=firebase,sequelize,prisma,sqlite,mysql,sklearn)
 
 ### Tools & Platforms
 ![Tools](https://skillicons.dev/icons?i=git,github,linux,windows,postman,vscode,wordpress)
