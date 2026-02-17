@@ -7,19 +7,25 @@
 </h1>
 
 <h3 align="center">
-  Software Engineer focused on Data-Driven Systems, Backend & Web • Nigeria 🇳🇬
+  Software Engineer • Backend, Data Processing & Automation • Nigeria 🇳🇬
 </h3>
 
 ---
 
 ## 👨🏿‍💻 About Me
 
-I build **data-driven applications** with a strong backend foundation, focusing on systems that turn data into decisions.
+I build backend systems and data workflows that turn messy inputs into reliable, decision-ready outputs.
 
-- 🔭 Collaborating on **Data-driven, Quantitative, Web & AI-adjacent systems**
-- 🌱 Currently deepening **Node.js, TypeScript, backend architecture, and data workflows**
-- 💬 Comfortable with **JavaScript, Python, React, CSS, Web fundamentals, Math**
-- ⚡ Interests: **Basketball (GSW), Football (Barcelona), board games, reading**
+My focus is on:
+- Backend architecture (Node.js / TypeScript)
+- Data processing & automation (Python, pandas)
+- Practical systems that eliminate manual work
+
+I enjoy working on problems involving structured data, reporting pipelines, APIs, and performance-aware systems.
+
+- 🌱 Currently strengthening backend architecture and data engineering fundamentals
+- 💬 Comfortable with JavaScript, TypeScript, Python, SQL, and system design basics
+- ⚡ Interests: Basketball (GSW), Football (Barcelona), board games, reading
 - 📫 Reach me via email or LinkedIn below
 
 > **Principle:** A smooth sea never made a skilled sailor.
@@ -56,13 +62,16 @@ I build **data-driven applications** with a strong backend foundation, focusing 
 
 ---
 
-## 📌 Featured Projects (Data-Focused)
+## 📌 Featured Projects
 
-> A few things I’ve built or I’m actively working on.
+- **Automated Sales Report Generator** – Python-based tool that cleans raw CSV data, aggregates monthly revenue, calculates growth metrics, and generates visual reports.
 
-- **Atlas (WIP)** – Data-centric platform for analytics, system design experiments, and backend architecture practice
-- **BiteExpress** – Food delivery platform (order management & frontend contributions)
-- **Portfolio Website** – Next.js + Tailwind, deployed on Vercel
+- **BiteExpress** – Food delivery platform (order workflows, frontend contributions, system integration).
+
+- **Atlas (WIP)** – Experimental backend & data-focused platform exploring analytics workflows and system design.
+
+- **Portfolio Website** – Next.js + Tailwind, deployed on Vercel.
+
 
 *(More detailed case studies coming soon)*
 
@@ -79,12 +88,12 @@ I build **data-driven applications** with a strong backend foundation, focusing 
 
 ---
 
-## 🚀 What I’m Optimizing For
+## 🚀 What I Focus On
 
-- Writing **clean, readable, maintainable code**
-- Strong **JavaScript & backend fundamentals**
-- **Real-world systems**, not toy projects
-- Long-term growth toward **high-performance engineering & quant systems**
+- Building reliable backend systems
+- Designing clean data workflows
+- Writing maintainable, production-oriented code
+- Solving practical problems with automation
 
 ---
 
