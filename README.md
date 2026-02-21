@@ -14,7 +14,7 @@
 
 ## 👨🏿‍💻 About Me
 
-I build backend systems and data workflows that turn messy inputs into reliable, decision-ready outputs.
+I build fullstack systems and data workflows that turn messy inputs into reliable, decision-ready outputs.
 
 My focus is on:
 - Backend architecture (Node.js / TypeScript)
