@@ -25,7 +25,7 @@ I enjoy working on problems involving structured data, reporting pipelines, APIs
 
 - 🌱 Currently strengthening backend architecture and data engineering fundamentals
 - 💬 Comfortable with JavaScript, TypeScript, Python, SQL, and system design basics
-- ⚡ Interests: Basketball (GSW), Football (Barcelona), board games, reading
+- ⚡ Interests: Basketball (GSW), Football (Barcelona), board games, reading, youtube
 - 📫 Reach me via email or LinkedIn below
 
 > **Principle:** A smooth sea never made a skilled sailor.
