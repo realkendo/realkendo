@@ -7,7 +7,7 @@
 </h1>
 
 <h3 align="center">
-  Software Engineer • Backend, Data Processing & Automation • Nigeria 🇳🇬
+  Software Engineer • fullstack, Data Processing & Automation • Nigeria 🇳🇬
 </h3>
 
 ---
