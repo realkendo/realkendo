@@ -7,16 +7,17 @@
 </h1>
 
 <h3 align="center">
-  Software Engineer • fullstack, Data Processing & Automation • Nigeria 🇳🇬
+  Software Engineer • fullstack, UI, Data Processing & Automation • Nigeria 🇳🇬
 </h3>
 
 ---
 
 ## 👨🏿‍💻 About Me
 
-I build fullstack systems and data workflows that turn messy inputs into reliable, decision-ready outputs.
+I build user-friendly, interactive fullstack systems and data workflows that turn messy inputs into reliable, decision-ready outputs.
 
 My focus is on:
+- Frontend design (React & Next.js)
 - Backend architecture (Node.js / TypeScript)
 - Data processing & automation (Python, numpy, pandas, sklearn, bs)
 - Practical systems that eliminate manual work
@@ -24,7 +25,7 @@ My focus is on:
 I enjoy working on problems involving structured data, reporting pipelines, APIs, and performance-aware systems.
 
 - 🌱 Currently strengthening backend architecture and data engineering fundamentals
-- 💬 Comfortable with JavaScript, TypeScript, Python, SQL, and system design basics
+- 💬 Comfortable with JavaScript, React, TypeScript, Python, SQL, and system design basics
 - ⚡ Interests: Basketball (GSW), Football (Barcelona), board games, reading, youtube
 - 📫 Reach me via email or LinkedIn below
 
